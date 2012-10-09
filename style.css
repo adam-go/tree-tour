@@ -1,0 +1,25 @@
+#TreeTourContainer {
+	width: 897px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 100%;
+}
+
+#map, #details {
+	border: 1px solid #000;
+}
+
+#map {
+	width: 300px;
+	float: left;
+	overflow: hidden
+}
+
+#splitter {
+	width: 16px;
+	float: left;
+}
+
+#details {
+	margin-left: 316px;
+}
